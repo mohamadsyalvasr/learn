@@ -131,38 +131,50 @@ Di AWS ada 4 job roles di cloud, yaitu&#x20;
 
 ### **Cloud Architect**
 
-Kompetensi untuk mencapai Cloud Architect adalah&#x20;
+Cloud Architect adalah profesional yang bertanggung jawab untuk merancang, mengembangkan, dan menerapkan solusi cloud computing. Mereka bekerja sama dengan klien untuk memahami kebutuhan mereka dan kemudian mendesain solusi yang memenuhi kebutuhan tersebut dengan cara yang aman, efisien, dan hemat biaya.
 
-* Memahami bagaimana layanan terhubung dan integrasi layanan
-* Memahami Amazon CloudWatch dan logging
-* Memahami AWS Identity and Access Management (IAM) dan keamanan yang terlibat
+Tanggung jawab Cloud Architect meliputi:
+
+* Melakukan analisis kebutuhan klien
+* Mendesain arsitektur cloud
+* Menerapkan solusi cloud
+* Mengelola dan memelihara solusi cloud
+* Melakukan pemantauan dan evaluasi solusi cloud
 
 ### **System Administrator**
 
-Kompetensi untuk mencapai System Administrator adalah&#x20;
+System Administrator adalah profesional yang bertanggung jawab untuk mengelola dan memelihara sistem operasi, perangkat lunak, dan infrastruktur TI. Mereka bekerja untuk memastikan bahwa sistem TI berjalan lancar dan aman.
 
-* Mahir dengan tugas langsung dan perubahan konfigurasi terperinci
-* Memahami manajemen konfigurasi
-* Mahir dengan pengumpulan kebutuhan dan menerjemahkan ke penyebaran
+Tanggung jawab System Administrator meliputi:
+
+* Mengelola sistem operasi
+* Mengelola perangkat lunak
+* Mengelola infrastruktur TI
+* Melakukan pemantauan sistem
+* Melakukan pemeliharaan sistem
+* Melakukan troubleshooting sistem
 
 ### **Security Administrator**
 
-Kompetensi untuk mencapai Security Administrator adalah
+Security Administrator adalah profesional yang bertanggung jawab untuk melindungi sistem TI dari ancaman keamanan. Mereka bekerja untuk memastikan bahwa sistem TI aman dari serangan, pelanggaran data, dan ancaman lainnya.
 
-* Menentukan persyaratan keamanan untuk bisnis tingkat perusahaan berdasarkan persyaratan keamanan dan peraturan mereka
-* Memahami aturan dan persyaratan keamanan
-* Mengkomunikasikan aturan keamanan hingga insinyur dan pembuat keputusan untuk memahami dan mengatasi risiko keamanan
-* Banyak akal karena tidak mungkin menghafal semua persyaratan peraturan
-* Meneliti dan banyak akal dengan kontak untuk menentukan jawaban untuk mengatasi keamanan
+Tanggung jawab Security Administrator meliputi:
+
+* Melakukan analisis risiko keamanan
+* Merancang dan menerapkan kebijakan keamanan
+* Mengelola dan memelihara sistem keamanan
+* Melakukan pemantauan keamanan
+* Melakukan investigasi keamanan
 
 ### **DevOps Administrator**
 
-Kompetensi untuk mencapai DevOps Administrator adalah
+DevOps Administrator adalah profesional yang bertanggung jawab untuk menyatukan pengembangan dan operasi. Mereka bekerja untuk memastikan bahwa proses pengembangan dan operasi berjalan lancar dan efisien.
 
-* Menerapkan bahasa scripting pemrograman dengan kemahiran
-* Memahami dan menerapkan QA dan pengujian
-* Memahami operasi dan mengelola pengembang
-* Mengatur banyak alat dan tahapan dalam pipeline
+Tanggung jawab DevOps Administrator meliputi:
+
+* Mengotomatisasi proses pengembangan dan operasi
+* Mengelola infrastruktur cloud
+* Melakukan pemantauan dan evaluasi proses pengembangan dan operasi
 
 ## Kesimpulan
 
