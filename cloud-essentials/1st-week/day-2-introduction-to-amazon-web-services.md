@@ -112,3 +112,6 @@ Cloud computing memungkinkan penyebaran aplikasi dan layanan dengan cepat, serta
 **6. Go global in minutes (Jadilah global dalam hitungan menit)**
 
 **J**angkau pengguna di seluruh dunia tanpa perlu membangun infrastruktur di setiap negara. Cloud computing menyediakan layanan global yang mudah diakses dari mana saja.
+
+## Resources
+
