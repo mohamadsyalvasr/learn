@@ -37,8 +37,8 @@
 * [✅ Day 22: Identifying and Fixing Misconfiguration](week-4/day-22-identifying-and-fixing-misconfiguration.md)
 * [✅ Day 23: Signing](week-4/day-23-signing.md)
 * [✅ Day 24: Systems Vulnerability Scanning](week-4/day-24-systems-vulnerability-scanning.md)
-* [Day 25: Containers Vulnerability Scanning](week-4/day-25-containers-vulnerability-scanning.md)
-* [Day 26: Network Vulnerability Scan](week-4/day-26-network-vulnerability-scan.md)
+* [✅ Day 25: Containers Vulnerability Scanning](week-4/day-25-containers-vulnerability-scanning.md)
+* [✅ Day 26: Network Vulnerability Scan](week-4/day-26-network-vulnerability-scan.md)
 * [Day 27: Introduction to Runtime Defence & Monitoring](week-4/day-27-introduction-to-runtime-defence-and-monitoring.md)
 * [Day 28: Application Logging](week-4/day-28-application-logging.md)
 
