@@ -2,18 +2,18 @@
 
 ## Client-server Model
 
-**Client-server model** adalah sebuah model arsitektur jaringan yang membagi tugas dan tanggung jawab antara dua jenis entitas: **klien** dan **server**.
+**Client-server model** adalah sebuah model arsitektur jaringan yang membagi tugas dan tanggung jawab antara dua jenis entitas: **client** dan **server**.
 
-**Klien** adalah perangkat atau aplikasi yang meminta dan mengonsumsi layanan atau sumber daya dari **server**. **Server** adalah perangkat atau aplikasi yang menyediakan dan mengelola layanan atau sumber daya untuk klien.
+**Client** adalah perangkat atau aplikasi yang meminta dan mengonsumsi layanan atau sumber daya dari **server**. **Server** adalah perangkat atau aplikasi yang menyediakan dan mengelola layanan atau sumber daya untuk client.
 
 Dalam cloud computing, **client-server model** adalah model arsitektur yang paling umum digunakan. Model ini memungkinkan pengguna untuk mengakses dan menggunakan sumber daya komputasi dari jarak jauh, tanpa memerlukan infrastruktur fisik dan staf TI yang ekstensif.
 
-**Berikut adalah penjelasan singkat tentang peran klien dan server dalam cloud computing:**
+**Berikut adalah penjelasan singkat tentang peran client dan server dalam cloud computing:**
 
-**Klien**
+**Client**
 
 * Merupakan perangkat atau aplikasi yang digunakan oleh pengguna untuk mengakses layanan atau sumber daya cloud.
-* Contoh klien cloud computing adalah:
+* Contoh client cloud computing adalah:
   * Browser web untuk mengakses layanan web
   * Aplikasi desktop untuk mengakses layanan cloud desktop
   * Aplikasi seluler untuk mengakses layanan cloud seluler
@@ -82,8 +82,6 @@ Berikut adalah beberapa deployment models yang umum digunakan:
 * **Bandingkan biaya awal dan biaya operasional jangka panjang.**
 * **Hitung keahlian teknis Anda untuk managemen cloud.**
 
-Saya harap penjelasan ini membantu kamu memahami deployment models dalam cloud computing secara sederhana. Jangan ragu bertanya jika kamu ingin penjelasan lebih detail mengenai model tertentu atau membutuhkan bantuan memilih model yang tepat untuk kebutuhan mu.
-
 ### Manfaat dari Cloud Computing
 
 \
@@ -112,6 +110,10 @@ Cloud computing memungkinkan penyebaran aplikasi dan layanan dengan cepat, serta
 **6. Go global in minutes (Jadilah global dalam hitungan menit)**
 
 **J**angkau pengguna di seluruh dunia tanpa perlu membangun infrastruktur di setiap negara. Cloud computing menyediakan layanan global yang mudah diakses dari mana saja.
+
+
+
+Semoga penjelasan ini membantu memahami client-server model, cloud computing, deployment models, dan manfaat dari cloud computing. Jika ada pertanyaan lebih lanjut atau butuh bantuan, silakan tanyakan.
 
 ## Resources
 

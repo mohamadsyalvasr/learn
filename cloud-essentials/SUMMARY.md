@@ -6,7 +6,7 @@
 
 * [✅ Day 1 - Job Roles in the Cloud](1st-week/day-1-job-roles-in-the-cloud.md)
 * [✅ Day 2 - Introduction to Amazon Web Services](1st-week/day-2-introduction-to-amazon-web-services.md)
-* [Day 3 - Compute](1st-week/day-3-compute.md)
+* [✅ Day 3 - Compute](1st-week/day-3-compute.md)
 * [Day 4 - Global Infrastructure and Reliability](1st-week/day-4-global-infrastructure-and-reliability.md)
 * [Day 5 - Networking](1st-week/day-5-networking.md)
 * [Day 6 - Storage and Databases](1st-week/day-6-storage-and-databases.md)
